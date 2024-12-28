@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Bubble Sort On One Dimensional Array", "Library Bubble Sort On One Dimensional Array\Library Bubble Sort On One Dimensional Array.csproj", "{D0D09A99-9369-70D6-6FE4-111D9336BC75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View Bubble Sort On One Dimensional Array", "View Bubble Sort On One Dimensional Array\View Bubble Sort On One Dimensional Array.csproj", "{B24DE285-4DB4-1191-D1AF-684F2B58ED93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D09A99-9369-70D6-6FE4-111D9336BC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D09A99-9369-70D6-6FE4-111D9336BC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D09A99-9369-70D6-6FE4-111D9336BC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D09A99-9369-70D6-6FE4-111D9336BC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24DE285-4DB4-1191-D1AF-684F2B58ED93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24DE285-4DB4-1191-D1AF-684F2B58ED93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24DE285-4DB4-1191-D1AF-684F2B58ED93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24DE285-4DB4-1191-D1AF-684F2B58ED93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935A7C2F-CA6E-47BE-81F8-03E78D4501CD}
+	EndGlobalSection
+EndGlobal
